@@ -145,3 +145,22 @@ curl http://127.0.0.1:8294/v1/chat/completions \
 
 - 为什么Agent没有被调用？  
 确保配置的AI服务商是支持FunctionCall的，并且接口协议和OpenAI的接口协议一致。
+
+# Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+<a href="https://github.com/big-mouth-cn/chatkit4j/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=big-mouth-cn/chatkit4j" />
+</a>
+
+# 许可证
+
+Released under the MIT License

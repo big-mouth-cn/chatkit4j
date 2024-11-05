@@ -6,6 +6,27 @@
     <groupId>io.github.bigmouthcn</groupId>
     <artifactId>chatkit4j</artifactId>
     <version>1.0.0</version>
+    <description>Chat Kit for Java</description>
+    <url>https://github.com/big-mouth-cn/chatkit4j</url>
+    <name>Chat Kit for Java</name>
+    <licenses>
+        <license>
+            <name>The MIT License</name>
+            <url>https://www.mit.edu/~amini/LICENSE.md</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+    <developers>
+        <developer>
+            <id>big-mouth-cn</id>
+            <name>Allen Hu</name>
+        </developer>
+    </developers>
+    <scm>
+        <connection>scm:git:https://github.com/big-mouth-cn/chatkit4j.git</connection>
+        <developerConnection>scm:git:https://github.com/big-mouth-cn/chatkit4j.git</developerConnection>
+        <url>https://github.com/big-mouth-cn/chatkit4j</url>
+    </scm>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
