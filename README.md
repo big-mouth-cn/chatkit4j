@@ -133,8 +133,8 @@ curl http://127.0.0.1:8294/v1/chat/completions \
 ```
 
 ```
-[2024-11-01 16:57:13.051] [INFO] 52510 [nio-8294-exec-7] [c.b.c.controller.CopilotController] : execution tool: calculated_expression - {"expression":"58 + 22 * 400 / 20"}
-[2024-11-01 16:57:13.164] [INFO] 52510 [nio-8294-exec-7] [c.b.c.controller.CopilotController] : executed: 498
+[2024-11-01 16:57:13.051] [INFO] 52510 [nio-8294-exec-7] [i.g.b.c.controller.ChatController] : execution tool: calculated_expression - {"expression":"58 + 22 * 400 / 20"}
+[2024-11-01 16:57:13.164] [INFO] 52510 [nio-8294-exec-7] [i.g.b.c.controller.ChatController] : executed: 498
 ```
 
 ![iShot_2024-11-01_16.58.28.png](docs%2FiShot_2024-11-01_16.58.28.png)

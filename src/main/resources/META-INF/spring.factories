@@ -1,5 +1,5 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-com.bxm.copilot.autoconfigure.OpenAiServiceAutoConfiguration,\
-com.bxm.copilot.autoconfigure.Chatkit4jMvcConfigurer,\
-com.bxm.copilot.autoconfigure.Chatkit4jAutoConfiguration,\
-com.bxm.copilot.autoconfigure.agents.EChartsAgentAutoConfiguration
+io.github.bigmouthcn.chatkit4j.autoconfigure.OpenAiServiceAutoConfiguration,\
+io.github.bigmouthcn.chatkit4j.autoconfigure.Chatkit4jMvcConfigurer,\
+io.github.bigmouthcn.chatkit4j.autoconfigure.Chatkit4jAutoConfiguration,\
+io.github.bigmouthcn.chatkit4j.autoconfigure.agents.EChartsAgentAutoConfiguration
