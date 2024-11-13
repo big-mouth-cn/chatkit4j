@@ -10,13 +10,13 @@ ChatKit for Java，是一个可快速对接AI接口的Java开发框架，你不�
 
 ### Gradle
 ```angular2html
-implementation 'io.github.bigmouthcn:chatkit4j:1.0.0'
+implementation 'io.github.big-mouth-cn:chatkit4j:1.0.0'
 ```
 
 ### Maven
 ```angular2html
 <dependency>
-    <groupId>io.github.bigmouthcn</groupId>
+    <groupId>io.github.big-mouth-cn</groupId>
     <artifactId>chatkit4j</artifactId>
     <version>1.0.0</version>
 </dependency>
