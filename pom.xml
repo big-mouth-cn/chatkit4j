@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>io.github.big-mouth-cn</groupId>
     <artifactId>chatkit4j</artifactId>
-    <version>1.0.2</version>
+    <version>1.0.0</version>
     <description>Chat Kit for Java</description>
     <url>https://github.com/big-mouth-cn/chatkit4j</url>
     <name>Chat Kit for Java</name>
